@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of his Majesties navie royall, and merchant ships, their names, captains, men, ordnance, in every ship, now set forth for the guard of the narrow seas, and for the coast of Ireland in this present expedition, 1643 Vnder the command of the Right Honourable Robert Earle of VVarwick, admirall and commander in chiefe of the said fleet.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88317</idno>
+            <idno type="STC">Wing L2393</idno>
+            <idno type="STC">Thomason 669.f.7[7]</idno>
+            <idno type="STC">ESTC R212650</idno>
+            <idno type="EEBO-CITATION">99871245</idno>
+            <idno type="PROQUEST">99871245</idno>
+            <idno type="VID">160989</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160989)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f7[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of his Majesties navie royall, and merchant ships, their names, captains, men, ordnance, in every ship, now set forth for the guard of the narrow seas, and for the coast of Ireland in this present expedition, 1643 Vnder the command of the Right Honourable Robert Earle of VVarwick, admirall and commander in chiefe of the said fleet.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Lawrence Blaiklock,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>With an engraved portrait of the Earl of Warwick.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658 --  Early works to 1800.</term>
+               <term>Ships --  Great Britain --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_ships">
+            <pb facs="tcp:160989:1" rendition="simple:additions"/>
+            <head>A Liſt of his Majeſties Navie Royall, and Merchants Ships, their Names, Captains, Men, Ordnance, in every Ship, now ſet forth for the Guard of the narrow Seas, and for the Coaſt of Ireland in this preſent expedition, 1643. Vnder the command of the Right Honourable ROBERT Earle of VVarwick, Admirall and Commander in Chiefe of the ſaid Fleet.</head>
+            <p>
+               <figure>
+                  <p>The Right Honourable Robert Rich Earle of Warwicke and Lord Rich of Leeze. Admirall &amp; Com<g ref="char:cmbAbbrStroke">̄</g>ander in Cheife of the ſaid Fleete.</p>
+               </figure>
+            </p>
+            <list>
+               <head>His Majeſties Ships.</head>
+               <item>1. PRince Royall, <hi>Robert</hi> Earle of War<g ref="char:EOLhyphen"/>wick Admirall, <hi>Richard Blyth</hi> Capt. 500 men, 70 ordnance.</item>
+               <item>2. St. Andrew, <hi>William Batten</hi> Capt. Vice-Admirall, 260 men, 45 ordinance.</item>
+               <item>3. St. George, <hi>Richard Owen</hi> Capt. Rere-Admirall, 260. men, 46. ordinance.</item>
+               <item>4. Swift-ſure, <hi>Robert Moulton,</hi> Capt. 260 men, 48. ordnance.</item>
+               <item>5. James, <hi>H. Bethell,</hi> Capt. 260 men, 50 ordn.</item>
+               <item>6. Raine-bow, <hi>Peter Andrewes,</hi> Capt. 240 men, 42. ordnance.</item>
+               <item>7. Victory, <hi>Nathanael Goodlad,</hi> Capt. 260 men, 46. ordnance.</item>
+               <item>8. Charles, <hi>Treſtram Steuens</hi> of Dover Capt. 350 men, 46. ordnance.</item>
+               <item>9. Converteine, <hi>Iohn Stanesby,</hi> Capt. 200 men, 42 ordnance.</item>
+               <item>10. Anthelop, <hi>Haddock,</hi> Capt. 160 men, 36 ordnance.</item>
+               <item>11. Entrance, <hi>I. Bowen,</hi> Capt. 160 men, 40 ord.</item>
+               <item>12. Leopard, <hi>Ben. Cranley</hi> Capt. 160 men, 44 ordnance.</item>
+               <item>13. Swallow, <hi>Thom. Rainborow</hi> Capt. 150 men, 34 ordnance.</item>
+               <item>14. Dreadnought, <hi>Soamaſter,</hi> Capt. 140 men, 40 ordnance.</item>
+               <item>15. Mary Roſe, <hi>Rich. Blyth jun.</hi> Capt. 100 men, 38 ordnance.</item>
+               <item>16. 8 Whelp, <hi>Will. Thomas,</hi> Capt. 60 men, 18 ordnance.</item>
+               <item>17. 10 Whelp, <hi>R. Hill,</hi> Capt. 60 men, 14 ord.</item>
+               <item>18. Greyhound, <hi>Abraham Wheeler,</hi> Capt. 50 men, 18 ordnance.</item>
+               <item>19. Nichodemus, <hi>I. Wood</hi> Com. &amp; Maſter, 45 men, 10 ordnance.</item>
+               <item>20. Hart, <hi>Batts</hi> Co. &amp; Mr. 40 men, 12 ord.</item>
+               <item>21 Hinde, <hi>Robert Bramble,</hi> Com. and Mr. 70 men, 10 ordnance.</item>
+               <item>22. Fortune Pynk, <hi>Rich. Billard</hi> Com. and Mr. 14 men, 8 ordnance.</item>
+               <item>
+                  <hi>Theſe two ſmall Veſſels, and the foure Ketches are to attend the Fleet.</hi>
+               </item>
+               <item>23. Nottordam, <hi>Peter White</hi> Com. &amp; Maſter, 20 men, 6 ordnance.</item>
+               <item>24. Revenge, <hi>I. Mildmay</hi> C. &amp; Mr. 12 men, 4 or.</item>
+               <item>25. Proſperous, <hi>Rich. Thomſon</hi> Maſter.</item>
+               <item>26. Anne, <hi>Math. Berry</hi> Maſter.</item>
+               <item>27. Hopewell, <hi>Chriſtoph. Berry</hi> Maſter.</item>
+               <item>28. Loads boat at Dover.</item>
+            </list>
+            <list>
+               <head>Merchants Ships.</head>
+               <item>1. Martin, <hi>Geo. Martin</hi> Capt. 532 tonre, 159 men, 36 ordnance.</item>
+               <item>2. Hopefull Luke, <hi>Robert Lea,</hi> Capt. 355 tonne, 106 men, 26 ordnance.</item>
+               <item>3. Maydenhead, <hi>Iames Lutton,</hi> Capt. 285 tonne, 85 men, 20 ordnance.</item>
+               <item>4 Anne and Joyce, <hi>Tho. Ioans,</hi> Capt. 300 tonne, 90 men, 22 ordnance.</item>
+               <item>5. Hercules, <hi>Lawrence Moyer,</hi> Capt. 468 tonne, 135 men, 28 ordnance.</item>
+               <item>6. May flower, <hi>Io. Piggot,</hi> Capt. 405 tonne 121 men, 28 ordnance.</item>
+               <item>7. Scipio, <hi>Tho. Evane,</hi> Capt. 425 tonne, 127 men, 28 ordnance.</item>
+               <item>8. Leopard, <hi>Tho. Clark,</hi> Capt. 362 tonne, 108 men, 22 ordnance.</item>
+               <item>9. Friendſhip, <hi>Io. Blake,</hi> Capt. 366 tonne, 109 men, 24 ordnance.</item>
+               <item>10. Speedwell, <hi>Ben. Peeters,</hi> Capt. 383 tonne 115 men, 26 ordnance.</item>
+               <item>11. Providence, <hi>Wil. Swanley,</hi> Capt. 270 tonne, 81 men, 20 ordnance.</item>
+               <item>12. John and Barbary, <hi>10. Barker</hi> Capt. 283 tonne, 84 men, 20 ordnance.</item>
+               <item>13. Golden Lion of Leech, <hi>Lodwick Dick,</hi> Capt. 450 tonne, 135 men, 30 ordnance.</item>
+               <item>14. Exchange, <hi>Iohn Rocheſter,</hi> Capt. 326 tonne, 97 men, 24 ordnance.</item>
+               <item>15. Golden Angel, <hi>Richard Lucas,</hi> Capt. 341 tonne, 102 men, 26 ordnance.</item>
+               <item>16. Bleſſing, <hi>Tho. Shaftoe,</hi> Capt. 200 tonne, 60 men, 18 ordnance.</item>
+               <item>17. Proſperous, <hi>Wil. Driver,</hi> Capt. 435 ton, 130 men, 28 ordnance.</item>
+               <item>18. Elizabeth and Anne, <hi>Wil. Coppin</hi> Capt. 88 tonne, 28 men, 18 ordnance.</item>
+               <item>29. Bleſſing, <hi>Aſhmore</hi> Capt., 350 tonne, 105 men, 26 ordnance.</item>
+               <item>20. George of Dover, <hi>Geo. Bowden,</hi> Capt. 121 tonne, 36 men, 12 ordnance.</item>
+               <item>21. James Youghall, <hi>Tho. Morgan,</hi> Capt. 100 tonne, 40 men, 8 ordnance.</item>
+               <item>22. Charity, <hi>Ralph Dansk</hi> Capt. 120 tonne, 36 men, 6 ordnance.</item>
+               <item>23. Joſlyn, <hi>Stansby</hi> Capt. 196 tonne, 59 men, 12 ordnance.</item>
+            </list>
+            <list>
+               <head>Colliers ſhips</head>
+               <item>Recovery, <hi>Iohn North</hi> Command. 360 ton, 70 men 11 ordnance.</item>
+               <item>Edward and Eliſabeth, <hi>Edw. Leigh</hi> Com. 350 tonne, 80 men, 14 ordnance.</item>
+               <item>Dragon, <hi>Iam. Peacocke</hi> Com. 260 tonne, 60 men, 6 ordnance.</item>
+               <item>Hector, <hi>Iam. Beddall</hi> Com. 360 tonne, 70 men, 20 ordnance.</item>
+            </list>
+            <list>
+               <head>Fire Ships.</head>
+               <item>Swan, <hi>Rob. Hudſon,</hi> Com. 200 tonne, 12 men.</item>
+               <item>Sarah, <hi>Lambert Pitches</hi> Com. 250 tonne, 14 men.</item>
+               <item>Andrew and Iohn, <hi>Thom. Craft</hi> Com. 220 tonne, 13 men.</item>
+               <item>Lyon of London, <hi>Iames Flawes,</hi> Com. 220 tonne, 12 men.</item>
+            </list>
+            <list>
+               <head>His Majeſties Ships for the Iriſh Coaſts.</head>
+               <item>1. Bonadventure, <hi>Richard Swanley</hi> Capt. Admirall, 170 men, 36 ordnance.</item>
+               <item>2. Lyon, <hi>Wil. Smith</hi> Cap. Vice Admirall, 170 men, 42 ordnance.</item>
+               <item>3. Expedition, <hi>Ioſeph Iorden</hi> Capt. Rere Admirall, 100 men, 15 ordnance.</item>
+               <item>4. Providence, <hi>William Brook</hi> Captaine, 100 men, 16 ordnance.</item>
+               <item>5. Creſſent, <hi>Tho. Pluncket</hi> Com. &amp; Mr. 50 men, 12 ordnance.</item>
+               <item>6. Lilly, <hi>Iohn Lambert</hi> Com. &amp; Mr. 35 men, 10 ordnance.</item>
+               <item>7. Starre, <hi>Tho. Cook</hi> Com. &amp; Mr. 60 men, 12 ordnance.</item>
+               <item>8. Signet, <hi>I. Weild</hi> Co. &amp; Mr. 70 men, 10 ordn.</item>
+            </list>
+            <list>
+               <head>Merchants Ships.</head>
+               <item>1. Employment, <hi>Tho. Aſhley,</hi> Capt. 440 tonne, 132 men, 30 ordnance.</item>
+               <item>2. Ruth, <hi>Robert Conſtable,</hi> Capt. 400 tonne 120 men, 24 ordnance.</item>
+               <item>3. Peter, <hi>Peter Strong,</hi> Capt. 170 tonne, 81 men, 14 ordnance.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Ten Merchantſhips on the coaſt of</hi> Ireland, <hi>to be paid the fraight, victuall, and wages unto the Ow<g ref="char:EOLhyphen"/>ners and company, out of ſuch moneys as have been or ſhall be paid in by the Adventurers upon the Act of ſubſcription for</hi> Ireland, <hi>within one year after the date of the Order.</hi>
+               </head>
+               <item>1. Zant merchant, 390 tonne, 117 men.</item>
+               <item>2. Good hope, 390 tonne, 117 men.</item>
+               <item>3. Achilles, 260 tonne, 78 men.</item>
+               <item>4. Geo. Bonad. 242 tonne, 72 men.</item>
+               <item>5. Mary Bonad. 240 tonne, 72 men.</item>
+               <item>6. Hopewell, 220 tonne, 66 men.</item>
+               <item>7. Katherine, 200 tonne, 60 men.</item>
+               <item>8. Pennington, 135 tonne, 40 men.</item>
+               <item>9. Dolphin, 100 tonne, 30. men.</item>
+               <item>10. Peter 150, tonne, 45. men.</item>
+            </list>
+            <p>IT is Ordained by the Lords and Commons in Parliament, That there be allowed ten ſhillings <hi>per</hi> man, rigging, wages unto the Merchant Ships, and 19 ſhillings <hi>per</hi> Moneth a man, to all common Sea-men, when they are at Sea. And it is further ordered, for the better encouragement of the Officers and Sea-men, who ſhal be employed in the Fleet; there ſhall bee allowed unto thoſe in the Kings Ships, beſides their pay, one full third part of all Prizes that they ſhall take in this their employment: The other two thirds to bee reſerved to the State, and to thoſe in the Merchant Ships, one full third part for the Officers and Sea-men, and another third part to the Owners, and the third part reſerved to the State as aforeſaid; which diviſions are to bee according to the cuſtome of men of warre.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Lawrence Blaiklock,</hi> 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
